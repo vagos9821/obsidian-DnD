@@ -16,6 +16,7 @@ stats:
   - "10"
 inspiration: 2
 ---
+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
 # 🌿 Yeen | The Elementalist
 > [!infobox]
 > # 📊 Core Vitality
