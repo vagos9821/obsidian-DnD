@@ -128,3 +128,20 @@ inspiration: 2
 
 ## 📝 Session Notes
 - **HP:** 35
+- **Spell Slots**
+	- LVL 1
+		- [x] 
+		- [ ] 
+		- [ ] 
+		- [ ] 
+	- LVL 2
+		- [x] 
+		- [ ] 
+		- [ ] 
+	- LVL 3
+		- [ ] 
+		- [ ] 
+		- [ ] 
+	- LVL 4
+		- [x] 
+		- [ ] 
