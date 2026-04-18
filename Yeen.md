@@ -124,3 +124,7 @@ inspiration: 2
 - **Weapon:** Wood Staff ($1d6$ Bludgeoning)
 - **Potions:** 2x Max Potions ($1d12$ healing)
 - **Tools:** Feral Survival Kit
+
+
+## 📝 Session Notes
+- **HP:** 35
